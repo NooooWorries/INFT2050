@@ -1,0 +1,37 @@
+﻿Accommodation.png, Friends.png, jobs.png, party.png, stuff.png, Textbook.png, Association.png
+http://sc.chinaz.com/tubiao/131025417980.htm
+
+SharedRecord.png
+http://sc.chinaz.com/tubiao/150729164060.htm
+
+DownloadRecord.png, UploadRecord.pmg
+http://sc.chinaz.com/tubiao/120223133211.htm
+
+Icon.png
+http://sc.chinaz.com/tubiao/120705449111.htm
+
+Choose photo from album or capture a photo
+http://windowsapptutorials.com/windows-phone-8-1/media-windows-phone-8-1/using-fileopenpicker-in-windows-phone-8-1-to-choose-picture-from-picture-gallery/ 
+
+Download image from blob*
+Souece: http://stackoverflow.com/questions/23256372/windows-phone-8-1-loading-images-from-remote-urls-placeholder
+
+MapPin.png
+https://cdn2.iconfinder.com/data/icons/perfect-flat-icons-2/64/Location_marker_pin_map_gps.png
+
+Map API*
+https://msdn.microsoft.com/en-us/magazine/dn818495.aspx
+
+Lecture recorder (audio recorder)
+http://stackoverflow.com/questions/23048661/capture-and-playback-of-audio-wp8-1-xaml
+
+Download files and convert to file steam
+Source: http://stackoverflow.com/questions/37248830/download-video-file-via-video-url-in-windows-phone-8-1-c-sharp
+
+Backend javascript code: save photos that uploaded by users*
+https://azure.microsoft.com/en-us/documentation/articles/mobile-services-javascript-backend-windows-universal-dotnet-upload-data-blob-storage/
+
+Background and Splash Screen
+https://www.lovebizhi.com Love WallPaper app
+
+* means the code is licensed under The Microsoft Public License (Ms-PL)
